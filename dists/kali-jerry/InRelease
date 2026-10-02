@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Jerry
+Label: Jerry Kali Repo
+Codename: kali-jerry
+Date: Fri, 02 Oct 2026 20:16:44 UTC
+Architectures: amd64
+Components: main
+Description: Mon depot perso avec aircrack-ng a jour
+MD5Sum:
+ ec67c0b65756048dd80317eaa2340bd7 4102 main/binary-amd64/Packages
+ d52848a61da8df9f05a5cfcf07b1efc6 2042 main/binary-amd64/Packages.gz
+ 552fa7571965945c613569cedcd19922 126 main/binary-amd64/Release
+ d2bef87e886129938d4d580658263b07 1883 main/source/Sources
+ 6c3d233cf59bb5aa4abf2c2692e55a5b 874 main/source/Sources.gz
+ 971d170a99a93d2fd394862412d65be1 127 main/source/Release
+SHA1:
+ 666d0e1bea7aaf59e552dfbe2df65dabee186fc0 4102 main/binary-amd64/Packages
+ 65c83ebe81bb1063c7bcfa49fcfde91834664d61 2042 main/binary-amd64/Packages.gz
+ e01a8867982fc83944a3b671df196f4071905986 126 main/binary-amd64/Release
+ 5d6e20754e851dbb65cb2679585a030b6aace0e4 1883 main/source/Sources
+ 3e895044374b4058f99a60b31e071be557283d0f 874 main/source/Sources.gz
+ 1fd3498956036f790c6a077672b3b8d20b796da0 127 main/source/Release
+SHA256:
+ 97cad7d91f6e1555499f3008b595c64ba4f3fab3d911c2fcaac45f7223122fe9 4102 main/binary-amd64/Packages
+ 51a8d51e15b0b9f03c944339fcfd58404eaf945fffeb71d3de13e4a3c3673b58 2042 main/binary-amd64/Packages.gz
+ e53f59cab89e00729a660f6b431b7415466d281dec250c061099364b5e1f9608 126 main/binary-amd64/Release
+ 1963c47450ff52fd3b6931d1b5bf04b2da5bf97e792200627c66c26b371c6094 1883 main/source/Sources
+ ae738034dc31843ab97bb56234f947f633582936bdf1c68bb5feb4229374ebc4 874 main/source/Sources.gz
+ 783d754cae066d984af3c5a0967b495bbe4c2be984e121919b069b8dcc3eb637 127 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9DP4HElERGPgDTcQzu3A4OL9zVYFAmrAETUACgkQzu3A4OL9
+zVYHyw//SCvU1YQJTd1uqcPCFyqg0wLJgpO3rx604b8zQwaTd0Vk75tgHKz4WiKE
+pnKjMWBAPReIRiUkS+4aA0K9uh0SUFtTl2A1/XbYULZw0Qvggru0zqsvgLc1csLA
+UrBVQD9v439CJm3OckwqQIY1Vv1pMy8ckXrhCZiLxOcomBU4dFKg+I8SHb1eACiz
+cidPKA7Y9HFaLDzj2plEYTKT3pEpPmXEWWNdbxEGnGKSTOWcQwUTHxyGMoHWLgBq
+mbOXpdX4vg5bAhNqpBzYfCNvS9Efv5RD1ZcaumbXcbcaDz94IIP/6CDRMcPETZuL
+qB6uzv/uOC12UuxUSdrQy0+M3bumJPMN4QQX4XEqvJjMA4+DjeLLk4o3SyIK7xGy
+tPWtYzUrmRCXoVl2l7K656OA6Z4PS7+wuWXmgAE2Rh2kC6GfcucQZWfWdya6Nvnr
+55JtJ+t0DUWPqDc2RmQ6WFz15O/FNvvFCHJJA0g2pNs2CmlclGxoXWZ7LZUzs50s
+l1gAnC/f8FYPzK1IX6jbce7Q0tW0fnoqk50V+L1aSXk+D2il1scWrxka4INwXeX8
+jQY4DnfBmhvqaYH2vRLyJRrERoCFwQqjNf3wwV/TgryBO3bZCCzDh47OIsDLRJej
+/vP29zIUCiwAr6S8ZaN01hOJyTtb/f+fvQ8WurAI2c9NZqRLMvc=
+=1OSk
+-----END PGP SIGNATURE-----

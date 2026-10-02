@@ -1,0 +1,69 @@
+Package: aircrack-ng
+Version: 1:1.7+git20260908.2f393aef-0kali1
+Architecture: amd64
+Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+Installed-Size: 2569
+Depends: ethtool, hwloc, iw, rfkill, usbutils, python3:any, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhwloc15 (>= 2.14.0), libnl-3-200 (>= 3.11.0), libnl-genl-3-200 (>= 3.11.0), libpcap0.8t64 (>= 0.9.8), libpcre2-8-0 (>= 10.22), libsqlite3-0 (>= 3.5.9), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), zlib1g (>= 1:1.1.4)
+Recommends: ieee-data, iproute2
+Suggests: gpsd, wireless-tools
+Homepage: https://www.aircrack-ng.org/
+Priority: optional
+Section: net
+Filename: pool/main/a/aircrack-ng/aircrack-ng_1.7+git20260908.2f393aef-0kali1_amd64.deb
+Size: 565696
+SHA256: ebcc550c32ec4db96f4316227a2e084eaeb942ed21f98d3db1bc683420cb52d3
+SHA1: 32b7f77475fcc0bae9a26478ac115d0cdde09c01
+MD5sum: 5c57914da3c66a0d0b8508720328196f
+Description: wireless WEP/WPA cracking utilities
+ aircrack-ng is an 802.11a/b/g WEP/WPA cracking program that can recover a
+ 40-bit, 104-bit, 256-bit or 512-bit WEP key once enough encrypted packets
+ have been gathered. Also it can attack WPA1/2 networks with some advanced
+ methods or simply by brute force.
+ .
+ It implements the standard FMS attack along with some optimizations,
+ thus making the attack much faster compared to other WEP cracking tools.
+ It can also fully use a multiprocessor system to its full power in order
+ to speed up the cracking process.
+ .
+ aircrack-ng is a fork of aircrack, as that project has been stopped by
+ the upstream maintainer.
+
+Package: aircrack-ng-dbgsym
+Source: aircrack-ng
+Version: 1:1.7+git20260908.2f393aef-0kali1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+Installed-Size: 2926
+Depends: aircrack-ng (= 1:1.7+git20260908.2f393aef-0kali1)
+Priority: optional
+Section: debug
+Filename: pool/main/a/aircrack-ng/aircrack-ng-dbgsym_1.7+git20260908.2f393aef-0kali1_amd64.deb
+Size: 2224616
+SHA256: c2470cf8f196f990ebfe1369c52e2ecf332b479d34185e7e73ed741712caca56
+SHA1: aeeff8d6430fc37a24c2a65ec95b2d85910853a2
+MD5sum: cbd4bdadc55faa1936a3701496897902
+Description: debug symbols for aircrack-ng
+Build-Ids: 0f4bdc2c4be9fcf8e9d4ff2e391520d08c4ebefc 123cd64a7f0289b4830b4d7f901116ef030a90ad 19c2a5a54ee5b87f1537fb12847e942751c76647 21997e34b23157a9598d1bc105170682b69d422f 2a0f04216f2e2763993c5d88ca53e17701a35834 40b85db62dbaf4bde907ae6d8ba8b517bb10d84f 43263d60437a168bda5055fc0a4b79394c9f9284 45cb913f6f75beeb6c97880003bd3d348cdd2215 4bff3b6ae9153a3a49ae84a00182798472d9dc79 64932c164a9f10642ff9a9a97760ed8dd9c01979 73c23bb6cd1a79dc87eb82ec6d5cff7e0a76ef5b 7a61e15f2458b17991f8ec6f2db9e05659198f7a 8acb002c87e57017245b6428eadd55d42dc95331 8c5ee90fefae7e4c88bd38c4b04cc43d47c3c852 8d2ee2b6b59341f38a31cdd7881a0f286988007f 8d503c178db2e1ec09f795d24cd4dd946011bb2c 9753cab62eb61163cc1a208b84703c44872ba4f6 9c2134c9a4e5459e6d853042ce436f3b5609e1d9 ab29d0e6db7073cde2f3bc310b139667736fd20e b747eba678e3519cd69337cb85b5af7b72a03b0d bc455876efb351d8342c3ce30d1fcfd7c5544f1e bfa26372f54405ff2d419bfc17e55d239f5754f8 c270cab2e92e144c2d24b803cfccd8659d924b58 d33b5fdea394d42ee1d785eb38158b50e9cbbb57 dc2b1df1bb1bb1a0fd24c2fcd63487a52ca613b5 edd36898100c9ccc57957231dd3defb940e693ff
+
+Package: airgraph-ng
+Source: aircrack-ng
+Version: 1:1.7+git20260908.2f393aef-0kali1
+Architecture: all
+Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+Installed-Size: 100
+Depends: graphviz, python3:any
+Recommends: aircrack-ng
+Homepage: https://www.aircrack-ng.org/
+Priority: optional
+Section: net
+Filename: pool/main/a/aircrack-ng/airgraph-ng_1.7+git20260908.2f393aef-0kali1_all.deb
+Size: 42060
+SHA256: da1d47b60ebddb21350d53bc7aa5d6ffffaf6942652be6784d1b4b7e448d467c
+SHA1: ad8e74ecc10cd5d78e383f7614fdcfc42450c848
+MD5sum: 0837c84624d7cbf53855e74f9024ff69
+Description: Tool to graph txt files created by aircrack-ng
+ airgraph-ng is a tool to create a graph ouf of the txt file created by airodump
+ with its -w option. The graph shows the relationships between the clients and
+ the access points.
+

@@ -1,0 +1,28 @@
+Origin: Jerry
+Label: Jerry Kali Repo
+Codename: kali-jerry
+Date: Fri, 02 Oct 2026 20:16:44 UTC
+Architectures: amd64
+Components: main
+Description: Mon depot perso avec aircrack-ng a jour
+MD5Sum:
+ ec67c0b65756048dd80317eaa2340bd7 4102 main/binary-amd64/Packages
+ d52848a61da8df9f05a5cfcf07b1efc6 2042 main/binary-amd64/Packages.gz
+ 552fa7571965945c613569cedcd19922 126 main/binary-amd64/Release
+ d2bef87e886129938d4d580658263b07 1883 main/source/Sources
+ 6c3d233cf59bb5aa4abf2c2692e55a5b 874 main/source/Sources.gz
+ 971d170a99a93d2fd394862412d65be1 127 main/source/Release
+SHA1:
+ 666d0e1bea7aaf59e552dfbe2df65dabee186fc0 4102 main/binary-amd64/Packages
+ 65c83ebe81bb1063c7bcfa49fcfde91834664d61 2042 main/binary-amd64/Packages.gz
+ e01a8867982fc83944a3b671df196f4071905986 126 main/binary-amd64/Release
+ 5d6e20754e851dbb65cb2679585a030b6aace0e4 1883 main/source/Sources
+ 3e895044374b4058f99a60b31e071be557283d0f 874 main/source/Sources.gz
+ 1fd3498956036f790c6a077672b3b8d20b796da0 127 main/source/Release
+SHA256:
+ 97cad7d91f6e1555499f3008b595c64ba4f3fab3d911c2fcaac45f7223122fe9 4102 main/binary-amd64/Packages
+ 51a8d51e15b0b9f03c944339fcfd58404eaf945fffeb71d3de13e4a3c3673b58 2042 main/binary-amd64/Packages.gz
+ e53f59cab89e00729a660f6b431b7415466d281dec250c061099364b5e1f9608 126 main/binary-amd64/Release
+ 1963c47450ff52fd3b6931d1b5bf04b2da5bf97e792200627c66c26b371c6094 1883 main/source/Sources
+ ae738034dc31843ab97bb56234f947f633582936bdf1c68bb5feb4229374ebc4 874 main/source/Sources.gz
+ 783d754cae066d984af3c5a0967b495bbe4c2be984e121919b069b8dcc3eb637 127 main/source/Release
